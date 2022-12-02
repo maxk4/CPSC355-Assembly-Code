@@ -1,0 +1,33 @@
+Script started on 2022-05-29 17:05:09-06:00
+]0;maximilian.kaczmarek@csa3:~/assignment3maximilian.kaczmarek@csa3:~/assignment3$ exitvim assign3b.asm[2Pcd assignment3exit[Kvim assign3b.asm[6P./assign3b[Ka
+Enter a decimal value:
+-10
+-0x000000000000000A
+]0;maximilian.kaczmarek@csa3:~/assignment3maximilian.kaczmarek@csa3:~/assignment3$ ./assign3a
+Enter a decimal value:
+10
++0x000000000000000A
+]0;maximilian.kaczmarek@csa3:~/assignment3maximilian.kaczmarek@csa3:~/assignment3$ ./assign3a
+Enter a decimal value:
+25
++0x0000000000000019
+]0;maximilian.kaczmarek@csa3:~/assignment3maximilian.kaczmarek@csa3:~/assignment3$ ./assign3a
+Enter a decimal value:
+-25
+-0x0000000000000019
+]0;maximilian.kaczmarek@csa3:~/assignment3maximilian.kaczmarek@csa3:~/assignment3$ ./assign3a
+Enter a decimal value:
+0
++0x0000000000000000
+]0;maximilian.kaczmarek@csa3:~/assignment3maximilian.kaczmarek@csa3:~/assignment3$ ./assign3a
+Enter a decimal value:
+200000
++0x0000000000030D40
+]0;maximilian.kaczmarek@csa3:~/assignment3maximilian.kaczmarek@csa3:~/assignment3$ ./assign3a
+Enter a decimal value:
+-13213782392
+-0x00000003139A5178
+]0;maximilian.kaczmarek@csa3:~/assignment3maximilian.kaczmarek@csa3:~/assignment3$ exit
+exit
+
+Script done on 2022-05-29 17:05:56-06:00
