@@ -1,0 +1,38 @@
+Script started on 2022-05-21 21:07:07-06:00
+]0;maximilian.kaczmarek@csa3:~/assignment2maximilian.kaczmarek@csa3:~/assignment2$ vim assign2b.asm[6P./assign2b[Ka
+Enter the number of positive integers you want:
+0
+Sum: 0
+There are no numbers
+]0;maximilian.kaczmarek@csa3:~/assignment2maximilian.kaczmarek@csa3:~/assignment2$ ./assign2a
+Enter the number of positive integers you want:
+1 -1
+No negative values allowed
+]0;maximilian.kaczmarek@csa3:~/assignment2maximilian.kaczmarek@csa3:~/assignment2$ ./assign2a
+Enter the number of positive integers you want:
+3
+1804289383
+846930886
+1681692777
+Sum: 4332913046
+The numbers are not in order
+]0;maximilian.kaczmarek@csa3:~/assignment2maximilian.kaczmarek@csa3:~/assignment2$ ./assign2a
+Enter the number of positive integers you want:
+2
+1804289383
+846930886
+Sum: 2651220269
+The numbers are Descending
+]0;maximilian.kaczmarek@csa3:~/assignment2maximilian.kaczmarek@csa3:~/assignment2$ ./assign2a
+Enter the number of positive integers you want:
+4
+1804289383
+846930886
+1681692777
+1714636915
+Sum: 6047549961
+The numbers are not in order
+]0;maximilian.kaczmarek@csa3:~/assignment2maximilian.kaczmarek@csa3:~/assignment2$ exit
+exit
+
+Script done on 2022-05-21 21:07:39-06:00
